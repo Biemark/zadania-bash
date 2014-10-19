@@ -1,4 +1,2 @@
-zadania-bash
-============
-
-bash zadania
+##bash zadania
+1\.Zadanie  ...
