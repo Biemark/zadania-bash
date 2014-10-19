@@ -56,3 +56,4 @@ I jeszcze raz na wrzesień i październik oraz na październik i listopad 2009 r
 11. Jaki był dzień tygodnia 25 maja 1975 r. (cal i date)
 ```sh
 cal -m 5 1975
+
