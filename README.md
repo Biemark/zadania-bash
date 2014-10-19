@@ -1,2 +1,5 @@
 ##bash zadania
-1\.Zadanie  ...
+sh
+mkdir {dom nauka/{c,logo,pascal}, praca} -p
+...
+
